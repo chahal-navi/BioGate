@@ -1,4 +1,5 @@
-# BioGate
+# VEIL
+
 
 **Mechanistic Interpretability for Upstream Biosecurity Guardrails**
 
